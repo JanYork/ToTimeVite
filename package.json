@@ -9,8 +9,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "animate.css": "^4.1.1",
+    "axios": "^1.2.0",
+    "element-plus": "^2.2.25",
     "pinia": "^2.0.27",
     "qrcode.vue": "^3.3.3",
+    "qs": "^6.11.0",
     "vue": "^3.2.41",
     "vue-router": "4"
   },
